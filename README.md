@@ -18,7 +18,7 @@ A step by step series of examples that tell you how to get a development env run
 
 ```bash
 git clone https://github.com/zEduardofaria/Pipefy-React.git
-cd cd JSHunt-web
+cd Pipefy-React
 npm install
 npm start
 ```
